@@ -1,8 +1,8 @@
-# IndiaHacks Blockchain KYC Supply Chain
+# Ethereum KYC Procurement POC
 
-A blockchain-based prototype for employee KYC verification and end-to-end procurement (requisition → supplier quotation → order) built on Ethereum. Three separate React.js clients — for employees, suppliers, and a regulator — all read from and write to a single shared smart contract.
+A blockchain-based proof of concept for employee KYC verification and end-to-end procurement (requisition → supplier quotation → order) built on Ethereum. Three separate React.js clients — for employees, suppliers, and a regulator — all read from and write to a single shared smart contract.
 
-Built by Ashish Singla & Deeksha Sachdeva for the IndiaHacks hackathon (RBS BlockGeeks).
+Originally built by Ashish Singla & Deeksha Sachdeva for the IndiaHacks hackathon (RBS BlockGeeks).
 
 ## Overview
 
